@@ -1,0 +1,5 @@
+\left\{\begin{matrix} 
+  P_1 = P_{11} \And P_{12}\And P_{13}\\  
+  P_2 = P_{21} \And P_{22}\And P_{23}\\
+  P_3 = P_{31} \And P_{32}\And P_{33}
+\end{matrix}\right. 
