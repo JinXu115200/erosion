@@ -16,7 +16,7 @@ module top_erosion
 
 );
 
-parameter Diff_Threshold = 8'd85;
+parameter Diff_Threshold = 8'd65;
 
 wire post0_frame_clken;
 wire post0_frame_vsync;
